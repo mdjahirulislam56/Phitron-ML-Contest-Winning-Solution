@@ -41,6 +41,8 @@ The final model was a **CatBoostRegressor** with the following hyperparameters:
 ## 📂 Project Structure
 * `Best_Train.ipynb`: The Jupyter Notebook containing the full training pipeline, feature extraction, and inference logic.
 * `requirements.txt`: Python dependencies required to run the code.
+* `train.csv`: Training dataset.
+* `test.csv`: Testing dataset.
 
 ## 🚀 How to Run
 1.  **Clone the repository:**
