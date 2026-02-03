@@ -4,12 +4,14 @@
 ![Language](https://img.shields.io/badge/Python-3.12-blue)
 ![Model](https://img.shields.io/badge/Model-CatBoost-green)
 
-**🔗 Competition Link:** [Phitron ML Contest 01 | Kaggle]([https://www.kaggle.com/competitions/phitron-ml-contest-01](https://www.kaggle.com/competitions/phitron-contest/overview))
-
 ## 📖 Overview
 This repository contains the solution that secured **1st Place** in the private contest: **Phitron ML Contest 01** hosted on Kaggle. The challenge focused on predicting the age of crabs based on physical measurements such as length, diameter, height, and weight components.
 
 My approach utilized a **CatBoostRegressor** integrated into a Scikit-Learn pipeline, emphasizing robust feature engineering to capture non-linear geometric relationships.
+
+## 🏆 Achievement
+**Rank:** 1st Place  
+<img width="1506" height="861" alt="image" src="https://github.com/user-attachments/assets/cef7269f-5ac9-4156-9487-8b72729f7e2b" />
 
 ## 📊 Methodology
 
